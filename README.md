@@ -1,31 +1,25 @@
 ## Hi there 👋
 
 I build scalable full-stack systems, cloud infrastructure, and AI-powered automation tools.
+## 🔗 Links
 
-## 🚀 Areas I Work In
-
-- Full-Stack Development
-- Cloud & DevOps
-- AI / LLM Automation
-- Backend Infrastructure
+- Portfolio: https://personal-portfolio-alpha-five-27.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/wenqi-zhang-z9078/
+- Email: wq.zhang2018@gmail.com
 
 ## 🛠 Tech Stack
 
 Java • Spring Boot • JavaScript • React • Node.js • Python • Django    
 PostgreSQL • Redis • AWS • Docker • REST APIs
 
-## 🌟 Current Work
+## 🚀 Areas I Work In
 
 - Building large-scale online learning platforms at Aubot
 - Developing LLM-powered automated testing pipelines
-- Designing scalable grading & compiler systems
+- Designing scalable AWS cloud infrastructure
 - Exploring AI-assisted developer workflows
 
-## 🔗 Links
 
-- Portfolio: https://personal-portfolio-alpha-five-27.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/wenqi-zhang-z9078/
-- Email: wq.zhang2018@gmail.com
 <!--
 **ZzHotte/ZzHotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
