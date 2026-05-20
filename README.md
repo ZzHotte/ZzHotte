@@ -3,7 +3,7 @@
 I build scalable full-stack systems, cloud infrastructure, and AI-powered automation tools.
 ## 🔗 Links
 
-- Portfolio: https://personal-portfolio-alpha-five-27.vercel.app/
+- Personal Website: https://personal-portfolio-alpha-five-27.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/wenqi-zhang-z9078/
 - Email: wq.zhang2018@gmail.com
 
